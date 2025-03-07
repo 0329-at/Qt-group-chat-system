@@ -1,0 +1,32 @@
+[
+{
+  "directory": "E:/qt_聊天室/qq_01/build",
+  "command": "D:\\llvm-mingw-20250114-ucrt-x86_64\\bin\\clang++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 @CMakeFiles/qq_01.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -pthread -o CMakeFiles\\qq_01.dir\\qq_01_autogen\\mocs_compilation.cpp.obj -c E:\\qt_聊天室\\qq_01\\build\\qq_01_autogen\\mocs_compilation.cpp",
+  "file": "E:/qt_聊天室/qq_01/build/qq_01_autogen/mocs_compilation.cpp",
+  "output": "CMakeFiles/qq_01.dir/qq_01_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "E:/qt_聊天室/qq_01/build",
+  "command": "D:\\llvm-mingw-20250114-ucrt-x86_64\\bin\\clang++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 @CMakeFiles/qq_01.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -pthread -o CMakeFiles\\qq_01.dir\\main.cpp.obj -c E:\\qt_聊天室\\qq_01\\main.cpp",
+  "file": "E:/qt_聊天室/qq_01/main.cpp",
+  "output": "CMakeFiles/qq_01.dir/main.cpp.obj"
+},
+{
+  "directory": "E:/qt_聊天室/qq_01/build",
+  "command": "D:\\llvm-mingw-20250114-ucrt-x86_64\\bin\\clang++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 @CMakeFiles/qq_01.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -pthread -o CMakeFiles\\qq_01.dir\\widget.cpp.obj -c E:\\qt_聊天室\\qq_01\\widget.cpp",
+  "file": "E:/qt_聊天室/qq_01/widget.cpp",
+  "output": "CMakeFiles/qq_01.dir/widget.cpp.obj"
+},
+{
+  "directory": "E:/qt_聊天室/qq_01/build",
+  "command": "D:\\llvm-mingw-20250114-ucrt-x86_64\\bin\\clang++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 @CMakeFiles/qq_01.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -pthread -o CMakeFiles\\qq_01.dir\\denglu.cpp.obj -c E:\\qt_聊天室\\qq_01\\denglu.cpp",
+  "file": "E:/qt_聊天室/qq_01/denglu.cpp",
+  "output": "CMakeFiles/qq_01.dir/denglu.cpp.obj"
+},
+{
+  "directory": "E:/qt_聊天室/qq_01/build",
+  "command": "D:\\llvm-mingw-20250114-ucrt-x86_64\\bin\\clang++.exe -DQT_CORE_LIB -DQT_GUI_LIB -DQT_NEEDS_QMAIN -DQT_NETWORK_LIB -DQT_NO_DEBUG -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -DWINVER=0x0A00 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN32_WINNT=0x0A00 -D_WIN64 @CMakeFiles/qq_01.dir/includes_CXX.rsp -O3 -DNDEBUG -std=gnu++17 -pthread -o CMakeFiles\\qq_01.dir\\qq_01_autogen\\EWIEGA46WW\\qrc_res.cpp.obj -c E:\\qt_聊天室\\qq_01\\build\\qq_01_autogen\\EWIEGA46WW\\qrc_res.cpp",
+  "file": "E:/qt_聊天室/qq_01/build/qq_01_autogen/EWIEGA46WW/qrc_res.cpp",
+  "output": "CMakeFiles/qq_01.dir/qq_01_autogen/EWIEGA46WW/qrc_res.cpp.obj"
+}
+]

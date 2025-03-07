@@ -1,0 +1,3 @@
+D:\Cmake\build\bin\Release\cmake.exe -E rm -f CMakeFiles\qq_01.dir/objects.a
+D:\llvm-mingw-20250114-ucrt-x86_64\bin\llvm-ar.exe qc CMakeFiles\qq_01.dir/objects.a @CMakeFiles\qq_01.dir\objects1.rsp
+D:\llvm-mingw-20250114-ucrt-x86_64\bin\clang++.exe -O3 -DNDEBUG -mwindows -Wl,--whole-archive CMakeFiles\qq_01.dir/objects.a -Wl,--no-whole-archive -o qq_01.exe -Wl,--out-implib,libqq_01.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\qq_01.dir\linkLibs.rsp

@@ -1,0 +1,38 @@
+{
+	"BUILD_DIR" : "E:/qt_\u804a\u5929\u5ba4/qq_01/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Release/qq_01_autogen",
+	"CMAKE_BINARY_DIR" : "E:/qt_\u804a\u5929\u5ba4/qq_01/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Release",
+	"CMAKE_CURRENT_BINARY_DIR" : "E:/qt_\u804a\u5929\u5ba4/qq_01/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Release",
+	"CMAKE_CURRENT_SOURCE_DIR" : "E:/qt_\u804a\u5929\u5ba4/qq_01",
+	"CMAKE_SOURCE_DIR" : "E:/qt_\u804a\u5929\u5ba4/qq_01",
+	"CROSS_CONFIG" : false,
+	"GENERATOR" : "Ninja",
+	"INCLUDE_DIR" : "E:/qt_\u804a\u5929\u5ba4/qq_01/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Release/qq_01_autogen/include",
+	"INPUTS" : 
+	[
+		"E:/qt_\u804a\u5929\u5ba4/qq_01/images/under.png",
+		"E:/qt_\u804a\u5929\u5ba4/qq_01/images/italic.png",
+		"E:/qt_\u804a\u5929\u5ba4/qq_01/images/spqy.png",
+		"E:/qt_\u804a\u5929\u5ba4/qq_01/images/clear.png",
+		"E:/qt_\u804a\u5929\u5ba4/qq_01/images/save.png",
+		"E:/qt_\u804a\u5929\u5ba4/qq_01/images/bold.png",
+		"E:/qt_\u804a\u5929\u5ba4/qq_01/images/qmnn.png",
+		"E:/qt_\u804a\u5929\u5ba4/qq_01/images/qq.png",
+		"E:/qt_\u804a\u5929\u5ba4/qq_01/images/jj.png",
+		"E:/qt_\u804a\u5929\u5ba4/qq_01/images/ymrl.png",
+		"E:/qt_\u804a\u5929\u5ba4/qq_01/images/Cherry.png",
+		"E:/qt_\u804a\u5929\u5ba4/qq_01/images/color.png",
+		"E:/qt_\u804a\u5929\u5ba4/qq_01/images/dr.png",
+		"E:/qt_\u804a\u5929\u5ba4/qq_01/images/lswh.png"
+	],
+	"LOCK_FILE" : "E:/qt_\u804a\u5929\u5ba4/qq_01/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Release/CMakeFiles/qq_01_autogen.dir/AutoRcc_res_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "--no-zstd", "-name", "res" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_res.cpp",
+	"RCC_EXECUTABLE" : "D:/Qt/6.8.0/llvm-mingw_64/./bin/rcc.exe",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "E:/qt_\u804a\u5929\u5ba4/qq_01/build/Desktop_Qt_6_8_0_llvm_mingw_64_bit-Release/CMakeFiles/qq_01_autogen.dir/AutoRcc_res_EWIEGA46WW_Used.txt",
+	"SOURCE" : "E:/qt_\u804a\u5929\u5ba4/qq_01/res.qrc",
+	"USE_BETTER_GRAPH" : true,
+	"VERBOSITY" : 0
+}

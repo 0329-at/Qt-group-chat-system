@@ -1,0 +1,1 @@
+-IE:/qt_聊天室/qq_01/build/qq_01_autogen/include -isystem "D:/Qt/6.8.0/llvm-mingw_64/include/QtCore" -isystem "D:/Qt/6.8.0/llvm-mingw_64/include" -isystem "D:/Qt/6.8.0/llvm-mingw_64/mkspecs/win32-clang-g++" -isystem "D:/Qt/6.8.0/llvm-mingw_64/include/QtWidgets" -isystem "D:/Qt/6.8.0/llvm-mingw_64/include/QtGui" -isystem "D:/Qt/6.8.0/llvm-mingw_64/include/QtNetwork"
